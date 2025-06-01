@@ -54,5 +54,5 @@ void main()
             printf("%d\t", mul[i][j]);
         }
         printf("\n");
-    } //matrix
+    }
 }
